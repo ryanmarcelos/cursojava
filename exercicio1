@@ -4,7 +4,7 @@ let numero1 = 10; // Primeiro número
 
 let número2 = 5; // Segundo número
 
-// Operadores aritméticos let soma number1 + number2;
+// Operadores aritméticos 
 
 let soma = numero1 + numero2;
 
