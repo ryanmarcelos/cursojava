@@ -1,10 +1,10 @@
-// Definindo as variáveis
-const titulo = "O Pequeno Príncipe";
-const autor = "Antoine de Saint-Exupéry";
-const paginas = 96;
+// Definindo as informações do livro Coraline
+const titulo = "Coraline";
+const autor = "Neil Gaiman";
+const paginas = 208;
 const disponivel = true;
 
-// Criando um objeto para armazenar as informações do livro
+// Criando um objeto para representar o livro
 const livro = {
   titulo,
   autor,
@@ -12,7 +12,7 @@ const livro = {
   disponivel
 };
 
-// Exibindo as informações no console
+// Exibindo as informações do livro
 console.log("Título:", titulo);
 console.log("Autor:", autor);
 console.log("Número de páginas:", paginas);
